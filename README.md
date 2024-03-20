@@ -1,2 +1,2 @@
 # Estudos_IA
-Trabalhos realizados por mim durante o curso de inteligência artificial da UFRJ
+Code developed during artificial intelligence course at Federal University of Rio de Janeiro
